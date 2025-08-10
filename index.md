@@ -11,7 +11,7 @@ I am a detail-oriented professional with a strong background in research, proble
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.  
 - **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.  
-- **Certifications & Learning** – Courses, badges, and milestones achieved.  
+- **Certifications & Learning** – Courses, badges, and milestones achieved. [Learn more →](/learning.html) 
 - **Contact** – Connect with me for collaborations or opportunities.
 
 ---
