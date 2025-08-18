@@ -13,7 +13,7 @@ I am a detail-oriented professional with a strong background in research, proble
 - **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.  
 - **Certifications & Learning** – Courses, badges, and milestones achieved. 
 - **Contact** – Connect with me for collaborations or opportunities.
-- **Audits & Case Studies** – Hands-on assessments and recommendations. [View audit →](/audit.html)
+- **Audits & Case Studies** – Hands-on assessments and recommendations. [View audit →](/audit.md)
 
 ---
 
