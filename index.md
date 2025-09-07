@@ -20,6 +20,10 @@ I am a detail-oriented professional with a strong background in research, proble
   Completed: August 2025  
   [Verify Certificate](https://coursera.org/verify/VVO0HGZMI6O4)
 
+- **Connect and Protect: Networks and Network Security** — Google/Coursera  
+    Completed: September 2025  
+    [Verify Certificate](https://coursera.org/verify/U0UNEQXJQ8D8)
+
 - **Contact** – Connect with me for collaborations or opportunities.
 - **Audits & Case Studies** – Hands-on assessments and recommendations. [View audit →](/audit.md)
 
