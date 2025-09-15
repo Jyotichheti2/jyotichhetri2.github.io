@@ -25,13 +25,10 @@ I am a detail-oriented professional with a strong background in research, proble
     [Verify Certificate](https://coursera.org/verify/U0UNEQXJQ8D8)
 
 - **Contact** – Connect with me for collaborations or opportunities.
-I'm **Jyoti Chhetri** — Aspiring Cybersecurity Engineer.  
-Reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jyotichheti2)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jyotichhetri76@gmail.com)
 
-- ✉️ Email: [jyoti.chhetri@example.com](mailto:jyoti.chhetri@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@Jyotichheti2](https://github.com/Jyotichheti2)
-- 📄 Resume: [Download my resume](resume.pdf)   <!-- put resume.pdf in repo root if you want this link to work -->
 
 - **Audits & Case Studies** – Hands-on assessments and recommendations. [View audit →](/audit.md)
 
