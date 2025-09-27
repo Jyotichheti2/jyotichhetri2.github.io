@@ -11,7 +11,8 @@ I am a detail-oriented professional with a strong background in research, proble
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.  
 - **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.  
-- **Certifications & Learning** – Courses, badges, and milestones achieved. [learning -](/learning.md)
+
+- **Certifications & Learning** – Courses, badges, and milestones achieved. [learning →](/learning.md)
 - **Foundations of Cybersecurity** — Google/Coursera  
   Completed: August 2025  
   [Verify Certificate](https://coursera.org/verify/GN9M1KD4J1PM)
@@ -21,8 +22,13 @@ I am a detail-oriented professional with a strong background in research, proble
   [Verify Certificate](https://coursera.org/verify/VVO0HGZMI6O4)
 
 - **Connect and Protect: Networks and Network Security** — Google/Coursera  
-    Completed: September 2025  
-    [Verify Certificate](https://coursera.org/verify/U0UNEQXJQ8D8)
+  Completed: September 2025  
+  [Verify Certificate](https://coursera.org/verify/U0UNEQXJQ8D8)
+
+- **Tools of the Trade: Linux and SQL** — Google/Coursera  
+  Completed: September 2025  
+  [Verify Certificate](Coursera%20FS8TVVY1ST9H.pdf)
+
 
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
