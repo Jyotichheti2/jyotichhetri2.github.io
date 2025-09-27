@@ -12,23 +12,23 @@ I am a detail-oriented professional with a strong background in research, proble
 - **About Me** – Learn about my career journey and transition into cybersecurity.  
 - **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.  
 
-- **Certifications & Learning** – Courses, badges, and milestones achieved. [learning →](/learning.md)
+## 📂 Certifications & Learning
+
 - **Foundations of Cybersecurity** — Google/Coursera  
   Completed: August 2025  
-  [Verify Certificate](https://coursera.org/verify/GN9M1KD4J1PM)
+  [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/GN9M1KD4J1PM)
 
 - **Play It Safe: Manage Security Risks** — Google/Coursera  
   Completed: August 2025  
-  [Verify Certificate](https://coursera.org/verify/VVO0HGZMI6O4)
+  [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/VVO0HGZMI6O4)
 
 - **Connect and Protect: Networks and Network Security** — Google/Coursera  
   Completed: September 2025  
-  [Verify Certificate](https://coursera.org/verify/U0UNEQXJQ8D8)
+  [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/U0UNEQXJQ8D8)
 
 - **Tools of the Trade: Linux and SQL** — Google/Coursera  
   Completed: September 2025  
-  [Verify Certificate](Coursera%20FS8TVVY1ST9H.pdf)
-
+  [![View Certificate PDF](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=adobeacrobatreader&logoColor=white)](Coursera%20FS8TVVY1ST9H.pdf)
 
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
