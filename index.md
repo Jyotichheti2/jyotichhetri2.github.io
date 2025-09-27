@@ -28,7 +28,8 @@ I am a detail-oriented professional with a strong background in research, proble
 
 - **Tools of the Trade: Linux and SQL** — Google/Coursera  
   Completed: September 2025  
-  [![View Certificate PDF](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=adobeacrobatreader&logoColor=white)](Coursera%20FS8TVVY1ST9H.pdf)
+  [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FS8TVVY1ST9H)
+
 
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
