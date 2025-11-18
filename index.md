@@ -30,6 +30,14 @@ I am a detail-oriented professional with a strong background in research, proble
   Completed: September 2025  
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FS8TVVY1ST9H)
 
+- **Assets, Threats, and Vulnerabilities** — Google/Coursera  
+    Completion Date: October 21, 2025  
+  [![View Certificate](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/share/c0642a881d2df5e9e92d6316b22b6d9f)
+
+  
+- **Sound the Alarm: Detection and Response** — Google/Coursera
+Completed: November 2025
+[![View Assignment Feedback](https://img.shields.io/badge/View%20Feedback-0056D2?style=flat&logo=coursera&logoColor(https://www.coursera.org/learn/detection-and-response/assignment-submission/4qdQY/portfolio-activity-finalize-your-incident-handlers
 
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
