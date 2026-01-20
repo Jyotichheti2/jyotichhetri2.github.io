@@ -44,6 +44,10 @@ I am a detail-oriented professional with a strong background in research, proble
   Completed: December 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/5GQ73G6HWDVU)
 
+- **Put It to Work: Prepare for Cybersecurity Jobs** — Google/Coursera
+  [cite_start]Completed: December 2025 [cite: 37]
+  [cite_start][![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/FPNGAMPG0675)
+  
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jyotichheti2)
