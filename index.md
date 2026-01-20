@@ -40,7 +40,7 @@ I am a detail-oriented professional with a strong background in research, proble
   Completion Date: November 2025  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/share/c0642a881d2df5e9e92d6316b22b6d9f)
 
-* **Automate Cybersecurity Tasks with Python** — Google/Coursera
+- **Automate Cybersecurity Tasks with Python** — Google/Coursera
   Completed: December 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/5GQ73G6HWDVU)
 
