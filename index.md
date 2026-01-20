@@ -16,28 +16,28 @@ I am a detail-oriented professional with a strong background in research, proble
 
 ## 📂 Certifications & Learning
 
-- **Foundations of Cybersecurity** — Google/Coursera  
-  Completed: August 2025  
+- **Foundations of Cybersecurity** — Google/Coursera
+  Completed: August 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/GN9M1KD4J1PM)
 
-- **Play It Safe: Manage Security Risks** — Google/Coursera  
-  Completed: August 2025  
+- **Play It Safe: Manage Security Risks** — Google/Coursera
+  Completed: August 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/VVO0HGZMI6O4)
 
-- **Connect and Protect: Networks and Network Security** — Google/Coursera  
-  Completed: September 2025  
+- **Connect and Protect: Networks and Network Security** — Google/Coursera
+  Completed: September 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/U0UNEQXJQ8D8)
 
-- **Tools of the Trade: Linux and SQL** — Google/Coursera  
-  Completed: September 2025  
+- **Tools of the Trade: Linux and SQL** — Google/Coursera
+  Completed: September 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FS8TVVY1ST9H)
 
-- **Assets, Threats, and Vulnerabilities** — Google/Coursera  
-    Completion Date: October 21, 2025  
+- **Assets, Threats, and Vulnerabilities** — Google/Coursera
+  Completion Date: October 21, 2025
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/share/c0642a881d2df5e9e92d6316b22b6d9f)
 
-- **Sound the Alarm: Detection and Response** — Google/Coursera  
-  Completion Date: November 2025  
+- **Sound the Alarm: Detection and Response** — Google/Coursera
+  Completion Date: November 2025
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/share/c0642a881d2df5e9e92d6316b22b6d9f)
 
 - **Automate Cybersecurity Tasks with Python** — Google/Coursera
