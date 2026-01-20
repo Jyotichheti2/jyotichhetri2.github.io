@@ -11,7 +11,8 @@ I am a detail-oriented professional with a strong background in research, proble
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.  
 - **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.
-- * [Access Control & Incident Remediation Case Study](./access-control-project.md) 
+- * [Access Control & Incident Remediation Case Study](./access-control-project.md)
+  * * [Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)
 
 ## 📂 Certifications & Learning
 
