@@ -16,6 +16,16 @@ I am a detail-oriented professional with a strong background in research, proble
 
 ## 📂 Certifications & Learning
 
+### 🏆 Featured Professional Credential
+
+- **Google Cybersecurity Professional Certificate** — Google/Coursera
+  **Completed: December 2025**
+  
+  [![Verify Certificate](https://img.shields.io/badge/VERIFY_PROFESSIONAL_CERTIFICATE-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/XTJ4IJOWNX6S)
+
+---
+#### 🎓 Individual Course Certificates
+
 - **Foundations of Cybersecurity** — Google/Coursera
   Completed: August 2025
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/GN9M1KD4J1PM)
