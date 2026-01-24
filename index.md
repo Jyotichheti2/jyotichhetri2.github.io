@@ -11,7 +11,9 @@ I am a detail-oriented professional with a strong background in research, proble
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.
   
-- **Projects & Labs** – Hands-on exercises, case studies, and tool explorations.
+- **Projects & Labs** – Hands-on exercises, case studies, audits, and tool explorations.
+- * [Controls & Compliance Audit](./compliance-audit.md)
+  Performing a gap analysis and compliance audit (PCI DSS, GDPR, SOC) for a corporate environment.
 - * [Phishing & Malware Alert Investigation](./phishing-alert-analysis.md)
 - * [Access Control & Incident Remediation Case Study](./access-control-project.md)
 - * [Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)
@@ -71,9 +73,3 @@ I am a detail-oriented professional with a strong background in research, proble
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jyotichheti2)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jyotichhetri76@gmail.com)
 
-
-- **Audits & Case Studies** – Hands-on assessments and recommendations. [View audit →](/audit.md)
-
----
-
-*Last updated: August 2025*
