@@ -34,6 +34,7 @@ WHERE department = 'Finance' OR department = 'Sales';
 ```
 
 **##Tools & Skills Used**
+
 SQL Dialect: Expertise in WHERE, AND, OR, NOT LIKE, and wildcards (%).
 
 Data Analysis: Filtering large datasets to identify security outliers and anomalies.
