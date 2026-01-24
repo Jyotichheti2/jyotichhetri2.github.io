@@ -25,6 +25,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)**
   Applying the NIST Cybersecurity Framework to analyze a confidential data leak and proposing remediation strategies.
 
+*  **[Network Traffic Analysis & Incident Response](./network-traffic-analysis.md)**
+   Forensic analysis of a SYN flood DoS attack and DNS failure to restore web server availability.
+
 * **[Healthcare Access Control Automation with Python](./python-access-control.md)**
   Developing a Python-based algorithm to automate the maintenance of restricted subnetwork allow lists.
 
