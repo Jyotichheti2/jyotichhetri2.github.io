@@ -15,6 +15,7 @@ I am a detail-oriented professional with a strong background in research, proble
 - * [Phishing & Malware Alert Investigation](./phishing-alert-analysis.md)
 - * [Access Control & Incident Remediation Case Study](./access-control-project.md)
 - * [Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)
+- * [Healthcare Access Control Automation with Python](./python-access-control.md)
 
 ## 📂 Certifications & Learning
 
