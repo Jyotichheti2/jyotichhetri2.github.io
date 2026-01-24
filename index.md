@@ -53,7 +53,7 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Linux File Permissions Audit](./linux-file-permissions.md)**
   Using the Linux CLI to audit system authorizations and enforce the Principle of Least Privilege.
 
-  * **[Data Breach Incident Final Report](./incident-final-report.md)**
+* **[Data Breach Incident Final Report](./incident-final-report.md)**
   A comprehensive post-mortem analysis of a 50,000-record data breach and forced browsing attack remediation.
 
 ## 📂 Certifications & Learning
