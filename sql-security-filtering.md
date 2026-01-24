@@ -11,14 +11,14 @@ To identify potential brute-force attacks occurring outside of business hours, I
 SELECT *
 FROM log_in_attempts
 WHERE TIME(login_time) > '18:00:00' AND status = 0;
-
+```
 ### 2. Geographic Threat Hunting
 To narrow the focus of the investigation, I excluded known-safe regions (Mexico) to isolate traffic from other global origins using wildcards and the NOT operator.
 ```sql
 SELECT *
 FROM log_in_attempts
 WHERE country NOT LIKE 'Mex%';
-
+```
 ### 3. Employee Access Auditing
 I performed audits on specific departments and office locations to verify access patterns, using both exact matches and the OR operator for broader searches.
 ```sql
@@ -26,11 +26,12 @@ I performed audits on specific departments and office locations to verify access
 SELECT *
 FROM employees
 WHERE department = 'Marketing' AND office LIKE 'East%';
-
+```
 -- Auditing Finance and Sales departments
 SELECT *
 FROM employees
 WHERE department = 'Finance' OR department = 'Sales';
+```
 
 ##Tools & Skills Used
 SQL Dialect: Expertise in WHERE, AND, OR, NOT LIKE, and wildcards (%).
