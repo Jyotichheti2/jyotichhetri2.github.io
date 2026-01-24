@@ -11,14 +11,25 @@ I am a detail-oriented professional with a strong background in research, proble
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.
   
-- **Projects & Labs** – Hands-on exercises, case studies, audits, and tool explorations.
-- * [Controls & Compliance Audit](./compliance-audit.md)
+## 🛠 Projects & Labs
+
+* **[Controls & Compliance Audit](./compliance-audit.md)**
   Performing a gap analysis and compliance audit (PCI DSS, GDPR, SOC) for a corporate environment.
-- * [Phishing & Malware Alert Investigation](./phishing-alert-analysis.md)
-- * [Access Control & Incident Remediation Case Study](./access-control-project.md)
-- * [Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)
-- * [Healthcare Access Control Automation with Python](./python-access-control.md)
-- * [SQL Filtering for Security Investigations](./sql-security-filtering.md)
+
+* **[Phishing & Malware Alert Investigation](./phishing-alert-analysis.md)**
+  Investigating suspicious emails using VirusTotal, CyberChef, and SHA256 hashing to identify malicious artifacts.
+
+* **[Access Control & Incident Remediation](./access-control-project.md)**
+  Implementing Role-Based Access Control (RBAC) and the Principle of Least Privilege to secure organizational data.
+
+* **[Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)**
+  Applying the NIST Cybersecurity Framework to analyze a confidential data leak and proposing remediation strategies.
+
+* **[Healthcare Access Control Automation with Python](./python-access-control.md)**
+  Developing a Python-based algorithm to automate the maintenance of restricted subnetwork allow lists.
+
+* **[SQL Filtering for Security Investigations](./sql-security-filtering.md)**
+  Using SQL queries to filter system logs, audit employee access, and investigate suspicious login attempts.
 
 ## 📂 Certifications & Learning
 
