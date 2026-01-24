@@ -50,6 +50,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[SQL Filtering for Security Investigations](./sql-security-filtering.md)**
   Using SQL queries to filter system logs, audit employee access, and investigate suspicious login attempts.
 
+* **[Linux File Permissions Audit](./linux-file-permissions.md)**
+  Using the Linux CLI to audit system authorizations and enforce the Principle of Least Privilege.
+
 ## 📂 Certifications & Learning
 
 ### 🏆 Featured Professional Credential
