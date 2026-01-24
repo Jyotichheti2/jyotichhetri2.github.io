@@ -10,6 +10,22 @@ I am a detail-oriented professional with a strong background in research, proble
 
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.
+
+  ---
+
+## 🛠 Technical Skills
+
+### **Security Operations**
+* **Network Analysis:** Proficient in **tcpdump** and **Wireshark** for packet capture and deep-packet inspection (OSI Layer analysis).
+* **Threat Intelligence:** Experience using **VirusTotal** and **CyberChef** for artifact deobfuscation and hash verification.
+* **SIEM/IDS:** Fundamental knowledge of **Security Information and Event Management (SIEM)** tools and **Intrusion Detection Systems (IDS)**.
+
+### **Technical Tools**
+* **Programming & Databases:** **Python** (Automation & Scripting), **SQL** (Log Filtering & Data Querying).
+* **Operating Systems:** **Linux** (CLI, File Permissions, Bash), Windows, macOS.
+* **Frameworks:** Familiarity with **NIST CSF**, **PCI DSS**, and **GDPR** compliance standards.
+
+---
   
 ## 🛠 Projects & Labs
 
