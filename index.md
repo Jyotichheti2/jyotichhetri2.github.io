@@ -56,6 +56,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Data Breach Incident Final Report](./incident-final-report.md)**
   A comprehensive post-mortem analysis of a 50,000-record data breach and forced browsing attack remediation.
 
+* **[Vulnerability Assessment & Risk Analysis](./vulnerability-assessment.md)**
+  Applying the NIST SP 800-30 framework to identify and mitigate high-level risks in a Linux/MySQL environment.
+
 ## 📂 Certifications & Learning
 
 ### 🏆 Featured Professional Credential
