@@ -26,14 +26,14 @@ I performed audits on specific departments and office locations to verify access
 SELECT *
 FROM employees
 WHERE department = 'Marketing' AND office LIKE 'East%';
-```
+
 -- Auditing Finance and Sales departments
 SELECT *
 FROM employees
 WHERE department = 'Finance' OR department = 'Sales';
 ```
 
-##Tools & Skills Used
+**##Tools & Skills Used**
 SQL Dialect: Expertise in WHERE, AND, OR, NOT LIKE, and wildcards (%).
 
 Data Analysis: Filtering large datasets to identify security outliers and anomalies.
