@@ -16,3 +16,9 @@ The algorithm identifies and removes unauthorized IP addresses by comparing the 
 for element in ip_addresses[:]:
     if element in remove_list:
         ip_addresses.remove(element)
+```
+## Tools & Skills Used
+
+- **Python:** List manipulation, string parsing, and algorithm design.
+- **File I/O:** Reading from and writing to text files using context managers.
+- **Security Principles:** Implementing automated Least Privilege and Access Revocation.
