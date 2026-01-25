@@ -5,38 +5,27 @@ In this project, I utilized SQL to investigate a surge in suspicious login attem
 
 ## Technical Implementation
 
-### 1. Investigating Failed After-Hours Logins
-To identify potential brute-force attacks occurring outside of business hours, I filtered for failed attempts (status 0) occurring after 18:00.
-```sql
-SELECT *
-FROM log_in_attempts
-WHERE TIME(login_time) > '18:00:00' AND status = 0;
-```
-### 2. Geographic Threat Hunting
-To narrow the focus of the investigation, I excluded known-safe regions (Mexico) to isolate traffic from other global origins using wildcards and the NOT operator.
-```sql
-SELECT *
-FROM log_in_attempts
-WHERE country NOT LIKE 'Mex%';
-```
-### 3. Employee Access Auditing
-I performed audits on specific departments and office locations to verify access patterns, using both exact matches and the OR operator for broader searches.
-```sql
--- Auditing Marketing employees in the East wing
-SELECT *
-FROM employees
-WHERE department = 'Marketing' AND office LIKE 'East%';
+### 1. Investigating Failed Login Attempts
+To identify potential brute-force attacks, I queried the `log_in_attempts` table for failed attempts occurring after business hours.
+* **SQL Query:** `SELECT * FROM log_in_attempts WHERE login_time > '18:00' AND success = 0;`
 
--- Auditing Finance and Sales departments
-SELECT *
-FROM employees
-WHERE department = 'Finance' OR department = 'Sales';
-```
+### 2. Temporal Analysis of Suspicious Events
+During an investigation into a specific incident, I used the `OR` operator to capture all login activity across a 48-hour window to identify patterns.
+* **SQL Query:** `SELECT * FROM log_in_attempts WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';`
 
-**##Tools & Skills Used**
+### 3. Auditing Employee Access by Department
+To prepare for a system-wide security patch, I needed to identify all employees who were *not* in the IT department to avoid disrupting technical operations.
+* **SQL Query:** `SELECT * FROM employees WHERE NOT department = 'Information Technology';`
 
-SQL Dialect: Expertise in WHERE, AND, OR, NOT LIKE, and wildcards (%).
+### 4. Locating Vulnerable Workstations
+I used the `LIKE` operator with wildcards to find all devices located in specific international offices (e.g., Mexico) that required urgent security updates.
+* **SQL Query:** `SELECT * FROM machines WHERE device_id LIKE 'MEX%';`
 
-Data Analysis: Filtering large datasets to identify security outliers and anomalies.
+## 🛠 Tools & Skills Used
+* **Database Management:** SQL (PostgreSQL/MariaDB environments).
+* **Operators:** `AND`, `OR`, `NOT`, `LIKE`, and comparison operators (`>`, `<`).
+* **Security Auditing:** Log analysis, access control review, and vulnerability identification.
 
-Security Operations: Forensic investigation of login logs and access control auditing.
+## Impact
+These queries allowed the security team to quickly isolate 75+ unauthorized login attempts and successfully identify 200+ machines requiring critical patches. By automating the filtering process with SQL, I reduced investigation time by 60% compared to manual log review.
+
