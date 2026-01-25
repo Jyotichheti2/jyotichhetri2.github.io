@@ -10,6 +10,8 @@ I am a detail-oriented professional with a strong background in research, proble
 
 ## 📂 Sections You Can Explore
 - **About Me** – Learn about my career journey and transition into cybersecurity.
+
+ ---
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jyotichheti2)
