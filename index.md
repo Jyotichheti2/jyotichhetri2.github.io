@@ -36,6 +36,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Access Control & Incident Remediation](./access-control-project.md)**
   Implementing Role-Based Access Control (RBAC) and the Principle of Least Privilege to secure organizational data.
 
+* **[PASTA Threat Modeling: E-commerce App](./pasta-threat-model.md)**
+  Using the 7-stage PASTA framework to conduct risk-centric threat modeling for a high-volume marketplace.
+
 * **[Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)**
   Applying the NIST Cybersecurity Framework to analyze a confidential data leak and proposing remediation strategies.
 
