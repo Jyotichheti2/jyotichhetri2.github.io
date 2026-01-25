@@ -60,6 +60,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Security Risk Assessment & System Hardening](./security-hardening-assessment.md)**
   Developing a defense-in-depth strategy using NGFW, IPS, and encryption to mitigate DDoS and unauthorized access risks.
 
+* **[Brute Force & DNS Redirection Report](./dns-malware-incident.md)**
+Investigating a multi-stage attack involving brute-force access, DNS manipulation, and malware deployment.
+
 ## 📂 Certifications & Learning
 
 ### 🏆 Featured Professional Credential
