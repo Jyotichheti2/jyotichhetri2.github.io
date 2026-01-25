@@ -33,6 +33,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Phishing & Malware Alert Investigation](./phishing-alert-analysis.md)**
   Investigating suspicious emails using VirusTotal, CyberChef, and SHA256 hashing to identify malicious artifacts.
 
+* **[Social Engineering: Physical Media Analysis](./physical-security-usb.md)**
+  Analyzing the risks of lost physical media and its role in social engineering, ransomware delivery, and data breaches.
+
 * **[Access Control & Incident Remediation](./access-control-project.md)**
   Implementing Role-Based Access Control (RBAC) and the Principle of Least Privilege to secure organizational data.
 
