@@ -10,7 +10,7 @@ I am a detail-oriented professional with a strong background in research, proble
 
 ## 📂 Sections You Can Explore
 - * **[About Me](#welcome-to-my-cybersecurity-portfolio)**– Learn about my career journey and transition into cybersecurity.
----
+
 ---
 ## 🛠 Technical Skills
 
