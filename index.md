@@ -63,6 +63,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Vulnerability Assessment & Risk Analysis](./vulnerability-assessment.md)**
   Applying the NIST SP 800-30 framework to identify and mitigate high-level risks in a Linux/MySQL environment.
 
+* **[ICMP Flood DDoS Analysis (NIST Framework)](./icmp-flood-analysis.md)**
+  Applying the NIST Cybersecurity Framework to mitigate an ICMP flood DDoS attack and strengthen network resilience.
+
 * **[Security Risk Assessment & System Hardening](./security-hardening-assessment.md)**
   Developing a defense-in-depth strategy using NGFW, IPS, and encryption to mitigate DDoS and unauthorized access risks.
 
