@@ -59,6 +59,9 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Vulnerability Assessment & Risk Analysis](./vulnerability-assessment.md)**
   Applying the NIST SP 800-30 framework to identify and mitigate high-level risks in a Linux/MySQL environment.
 
+  * **[Security Risk Assessment & System Hardening](./security-hardening-assessment.md)**
+  Developing a defense-in-depth strategy using NGFW, IPS, and encryption to mitigate DDoS and unauthorized access risks.
+
 ## 📂 Certifications & Learning
 
 ### 🏆 Featured Professional Credential
