@@ -39,7 +39,7 @@ I am a detail-oriented professional with a strong background in research, proble
 * **[Data Leak Analysis & NIST CSF Case Study](./data-leak-analysis.md)**
   Applying the NIST Cybersecurity Framework to analyze a confidential data leak and proposing remediation strategies.
 
-*  **[Network Traffic Analysis & Incident Response](./network-traffic-analysis.md)**
+* **[Network Traffic Analysis & Incident Response](./network-traffic-analysis.md)**
    Forensic analysis of a SYN flood DoS attack and DNS failure to restore web server availability.
 
 * **[Healthcare Access Control Automation with Python](./python-access-control.md)**
@@ -109,6 +109,7 @@ I am a detail-oriented professional with a strong background in research, proble
   [![Verify Certificate](https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/HF7LFT5MZ65J)
 
 ---
+
 
 
 ## 📬 Contact & Connect
