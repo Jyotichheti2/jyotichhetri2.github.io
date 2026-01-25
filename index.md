@@ -5,6 +5,7 @@ layout: default
 # Welcome to My Cybersecurity Portfolio
 
 I am a detail-oriented professional with a strong background in research, problem-solving, and clear communication, now building expertise in cybersecurity. Guided by integrity, curiosity, and a commitment to continuous learning, I aim to identify vulnerabilities, mitigate risks, and strengthen security measures. My blend of analytical skills and a learner’s mindset equips me to help organizations protect their assets and maintain trust in an evolving digital landscape.
+
 ---
 - **Contact** – Connect with me for collaborations or opportunities.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chhetri-888012191/)
